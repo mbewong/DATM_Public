@@ -1,0 +1,5 @@
+rec.autos-H: ac instal, aftermarket ac, alternative fuel, buy car, construction hard,  hard hat, radar detector, sig construction, speed limit, use car, 
+alt.atheism-H: appearance god, believe god, distribution world, evidence benefactor, evidence support, god exist, make prediction, make sense, number observation, pink unicorn
+sci.med-E: alzheimers disease, anecdotal evidence, chronic persistent, chronic persistent, hepatitis chronic,  kind evidence, shameful surrender, skepticism chastity, surrender soon, xrays make
+talk.politics.guns-E: carry conceal, carry weapon, distribution world, gang member, gun control, individual civil, nuclear weapon,  second amendment, social utility, tear gas
+soc.religion.christian-E:  believe god, catholic church, commit sin, god grace, human nature, immaculate conception, jesus christ, new testament, original sin, speak tongue

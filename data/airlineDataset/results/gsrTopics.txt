@@ -1,0 +1,9 @@
+Lost Luggage-H: lose bag, lose luggage, baggage claim, check bag, wait bag, lose baggage, luggage flight 
+Flight Booking Problems-E: book flight, book problem, try book, cancel flight, change flight, reflight book, book online, make change, change fee, rebook flight 
+Damaged Luggage-H: baggage claim, destroy luggage, throw bag, break luggage, break suitcase, luggage handle, bag handler, bad experience, new stroller, baggage handler 
+Bad Flight-H: pay extra, inflight wifi, sit plane, st class, didnt work, wifi work, miss connection, seat flight, stick plane, pay upgrade 
+Customer Service Issue-H: customer service, hold hour, ive hold, worst customer, hold min, answer phone
+longlines-H: people line, wait gate, wait min, line door, minute wait, wait bag, wait hour, service line 
+Late Flight-E: late flight, flight delay, delay hour, miss connection, hour late, sit plane, sit tarmac, mechanical issue, gate agent, hour wait 
+Cancelled Flight-E: cancel flight, flight tomorrow, cancel flightlation, tomorrow cancel, delay cancel, reschedule flight, new flight 
+Flight Attendant Complaints-E: flight attendant, gate agent, flight crew, customer service, crew member, staff rude, gate attendant, grind crew, serve drink, force check

@@ -1,0 +1,8 @@
+RudeService-E: customer service, horrible service, long time, mess order, order food, order right, order wrong, wait minute, worst mcdonalds, worst service
+BadFood-H: big mac, chicken nugget, chicken sandwich, cold fry, food cold, food taste, french fry, grill chicken, mcdonalds food, quarter pounder, worst mcdonalds
+Filthy-H: clean table, din area, fry old, mcdonalds location, place dirty, play area, worst mcdonalds
+MissingFood-H: charge extra, customer service, way home
+Cost-H: accept card, charge extra,  price higher
+OrderProblem-H: check bag, check order, mess order, order correct, order food, time order, wrong order
+ScaryMcDs-H: ask money, homeless guy, homeless people, homeless person, park lot, security guard
+SlowService-E: customer service, drive line, long wait, order food, order time, slow service, slowest mcdonalds, wait minute, wait order, wait wait
