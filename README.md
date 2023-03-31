@@ -46,3 +46,7 @@ with the actual topics
 A demonstration of the steps necessary for transformation and evaluation is provided in following jupyter notebook:
 
 * demonstration.ipynb (in the main folder)
+
+## Citation
+
+M. Bewong et al., "DATM: A Novel Data Agnostic Topic Modelling Technique with Improved Effectiveness for both Short and Long Text," in IEEE Access, doi: 10.1109/ACCESS.2023.3262653.
