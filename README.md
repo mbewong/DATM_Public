@@ -51,4 +51,7 @@ A demonstration of the steps necessary for transformation and evaluation is prov
 
 Bewong, M., Wondoh, J., Kwashie, S., Liu, J., Liu, L., Li, J., Islam, M., & Kernot, D. (2023). DATM: A Novel Data Agnostic Topic Modelling Technique with Improved Effectiveness for both Short and Long Text. IEEE Access, DOI: 10.1109/ACCESS.2023.3262653.
 
+### Paper Link
+https://ieeexplore.ieee.org/document/10083137?source=authoralert
+
 
